@@ -106,5 +106,4 @@ def is_tar(some_str: str) -> bool:
 #print(boot_it("0123456789",2,4))
 #print(strip("    hello    ","left"))
 print(strip("    hello    ","right"))
-
 #print(is_tar("tatr"))
